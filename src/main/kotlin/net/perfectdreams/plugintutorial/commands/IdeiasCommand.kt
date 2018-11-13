@@ -6,7 +6,6 @@ import net.perfectdreams.dreamcore.utils.commands.annotation.SubcommandPermissio
 import net.perfectdreams.plugintutorial.PluginTutorial
 import org.bukkit.command.CommandSender
 import org.bukkit.entity.Player
-import sun.audio.AudioPlayer.player
 
 // Isto é um comando!
 // label      = nome do comando
